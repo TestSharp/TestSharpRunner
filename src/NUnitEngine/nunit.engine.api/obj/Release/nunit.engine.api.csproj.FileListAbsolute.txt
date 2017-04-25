@@ -3,4 +3,3 @@ C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.e
 C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.engine.api.pdb
 C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit.engine.api\obj\Release\nunit.engine.api.dll
 C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit.engine.api\obj\Release\nunit.engine.api.pdb
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit.engine.api\obj\Release\nunit.engine.api.csprojResolveAssemblyReference.cache
