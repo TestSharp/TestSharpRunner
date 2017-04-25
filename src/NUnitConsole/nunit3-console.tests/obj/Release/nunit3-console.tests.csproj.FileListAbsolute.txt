@@ -1,8 +1,0 @@
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.engine.addins
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\TestListWithEmptyLine.tst
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\TextSummary.xslt
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\NUnit2TestResult.xsd
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\ConsoleTests.nunit
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit3-console.tests.dll
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitConsole\nunit3-console.tests\obj\Release\nunit3-console.tests.csprojResolveAssemblyReference.cache
-C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitConsole\nunit3-console.tests\obj\Release\nunit3-console.tests.dll
