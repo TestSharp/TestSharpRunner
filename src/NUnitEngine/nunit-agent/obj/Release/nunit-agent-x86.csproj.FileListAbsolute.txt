@@ -1,0 +1,7 @@
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.engine.addins
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit-agent-x86.exe.config
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit-agent-x86.exe
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit-agent-x86.pdb
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit-agent\obj\Release\nunit-agent-x86.csprojResolveAssemblyReference.cache
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit-agent\obj\Release\nunit-agent-x86.exe
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit-agent\obj\Release\nunit-agent-x86.pdb

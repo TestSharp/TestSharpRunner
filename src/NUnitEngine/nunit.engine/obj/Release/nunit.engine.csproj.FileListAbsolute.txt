@@ -1,0 +1,6 @@
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.engine.addins
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.engine.dll
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\nunit.engine.pdb
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit.engine\obj\Release\nunit.engine.csprojResolveAssemblyReference.cache
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit.engine\obj\Release\nunit.engine.dll
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\nunit.engine\obj\Release\nunit.engine.pdb

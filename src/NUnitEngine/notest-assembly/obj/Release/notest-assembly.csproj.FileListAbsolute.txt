@@ -1,0 +1,5 @@
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\notest-assembly.dll
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\bin\Release\notest-assembly.pdb
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\notest-assembly\obj\Release\notest-assembly.csprojResolveAssemblyReference.cache
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\notest-assembly\obj\Release\notest-assembly.dll
+C:\Work\CS projects\NUnit3CustomConsole\nunit-console-master\src\NUnitEngine\notest-assembly\obj\Release\notest-assembly.pdb
