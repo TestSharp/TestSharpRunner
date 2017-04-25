@@ -4,7 +4,7 @@ TestSharpRunner is an NUnit3 based test runner. Its main purpose is to help with
 
 It lets you define the browser, you'd like to run your tests on with command line parameter.
 
-##How does it work?##
+## How does it work? ##
 
 It works mostly the same as the NUnit3 Console Runner, only one change had been made:
 You can add the optional parameter: --browser={selected_browser} or --b={selected_browser} to your command.
@@ -13,7 +13,7 @@ It'll create a browserconfig.txt file in the folder that contains your test dll 
 
 You can read the content of that file in your test and create a switch based on it to handle your driver setup.
 
-##Example for your driver setup with this##
+## Example for your driver setup with this ##
 
 ```
 private string GetCurrentlySetBrowser
@@ -80,7 +80,7 @@ public void Setup()
 }
 ```
 
-##Other information##
+## Other information ##
 
 Shootout to Charlie Poole and his team for this cool unit testing framework and console runner!
 TestSharpRunner is mainly used for test automation, functional testing, but it's based heavily on their unit testing framework and test running tools.
@@ -89,7 +89,7 @@ You can use NUnit and NUnit Console Runner every functionality with TestSharpRun
 For further information and capabilities please check NUnit's page: [NUnit3 wiki] (https://github.com/nunit/docs/wiki/NUnit-Documentation)
 
 
-##NUnit original readme##
+## NUnit original readme ##
 
 NUnit is a unit-testing framework for all .Net languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms.
 
